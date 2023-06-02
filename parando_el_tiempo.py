@@ -8,5 +8,8 @@
  *   Se podría ejecutar varias veces al mismo tiempo.
  */'''
  
- 
- 
+def parando(num1, num2):
+    print (num1 + num2)
+    
+    
+parando (3, 5)
